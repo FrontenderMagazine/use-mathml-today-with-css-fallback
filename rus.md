@@ -111,6 +111,6 @@
 [7]: http://modernizr.com/
 [8]: https://github.com/Modernizr/Modernizr/blob/master/feature-detects/mathml.js
 
-[Слайд презентации в Firefox]: img/mathml-firefox.png?raw=true&amp;repo=use-mathml-today-with-css-fallback "Слайд презентации в Firefox"
-[Слайд презентации в Chrome]: img/mathml-chrome-nocss.png?raw=true&amp;repo=use-mathml-today-with-css-fallback "Слайд презентации в Chrome"
-[Слайд презентации в Chrome c CSS деградацией]: img/mathml-chrome-withcss.png?raw=true&amp;repo=use-mathml-today-with-css-fallback "Слайд презентации в Chrome c CSS деградацией"
+[Слайд презентации в Firefox]: img/mathml-firefox-ru.png?raw=true&amp;repo=use-mathml-today-with-css-fallback "Слайд презентации в Firefox"
+[Слайд презентации в Chrome]: img/mathml-chrome-nocss-ru.png?raw=true&amp;repo=use-mathml-today-with-css-fallback "Слайд презентации в Chrome"
+[Слайд презентации в Chrome c CSS деградацией]: img/mathml-chrome-withcss-ru.png?raw=true&amp;repo=use-mathml-today-with-css-fallback "Слайд презентации в Chrome c CSS деградацией"
